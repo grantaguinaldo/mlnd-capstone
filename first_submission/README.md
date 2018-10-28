@@ -1,6 +1,6 @@
 # Identifying the Key Features of a Customer Dataset that can be used to Predict Chrun 
 
-##Machine Learning Nanodegree Capstone Project 
+## Machine Learning Nanodegree Capstone Project 
 By: Grant Aguinaldo
 
 ![](./images/mlnd-image.jpg)
